@@ -1,0 +1,11 @@
+.SubjectGradeContainer {
+  display: flex;
+}
+.TwoHalf {
+  flex: 1;
+  margin: 0.5rem;
+}
+.Footer {
+  text-align: end;
+  padding: 0.5rem;
+}

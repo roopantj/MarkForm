@@ -1,0 +1,10 @@
+.App {
+  text-align: center;
+}
+.Form {
+  text-align: left;
+  width: 60%;
+  margin: 1rem auto;
+  border: 1px solid grey;
+  padding: 0.75rem;
+}
